@@ -52,3 +52,4 @@ PRODUCT_PACKAGES += \
 
 # UDFPS Customization
 TARGET_HAS_UDFPS := true
+$(call soong_config_set,samsung_udfps,udfps_zorder,0x20000000u)
