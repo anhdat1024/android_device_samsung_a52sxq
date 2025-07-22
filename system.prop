@@ -1,0 +1,6 @@
+# Device Definition
+ro.product.marketname=Samsung Galaxy A52s 5G
+ro.infinity.soc=Snapdragon 778G 5G
+ro.infinity.battery=4500 mAh
+ro.infinity.display=1080 x 2400, 120 Hz
+ro.infinity.camera=64MP + 12MP + 5MP + 5MP
